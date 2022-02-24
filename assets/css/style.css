@@ -10227,7 +10227,6 @@ a.nav-link {
 }
 
 .back {
-  background-image:linear-gradient(rgb(0 0 0 / 50%),#000000), url('/assets/img/trinity/corporate-image-2.jpg'); 
   height: 80rem;
   padding-top: 80px;
   max-width: 100%;
