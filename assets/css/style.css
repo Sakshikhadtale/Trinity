@@ -10397,3 +10397,18 @@ padding: 20px;  }
   box-shadow: none;
   background: white;
 }
+
+.sanserif{
+  font-family: sans-serif;
+  font-size: 30px;
+  color: #777;
+  font-weight: bolder;
+}
+
+.blueiconbluebg {
+ color: #37bdff ;
+}
+
+.textbold{
+font-weight: bold;
+}
