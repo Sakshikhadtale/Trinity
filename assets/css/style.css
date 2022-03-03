@@ -10252,7 +10252,9 @@ a.nav-link {
   font-family: 'Bebas Neue';
   letter-spacing: 5px;
 }
-
+.BebasNue{
+  font-family: "Bebas Neue";
+}
 .ab{
   text-align: justify;
   list-style-type: disc;
@@ -10401,7 +10403,7 @@ padding: 20px;  }
 .sanserif{
   font-family: sans-serif;
   font-size: 30px;
-  color: #777;
+  color:#e55b44;
   font-weight: bolder;
 }
 
@@ -10410,5 +10412,30 @@ padding: 20px;  }
 }
 
 .textbold{
-font-weight: bold;
+font-weight:700;
+}
+.BebasNue{
+  font-family: "Bebas Neue";
+  letter-spacing: 1px;
+  color: orangered;
+  font-size: 30px;
+}
+.card-header {
+  background-color: white;
+}
+.card-body{
+  background-color: white;
+}
+.bgimg {
+    border: 5px solid #ced4da;
+}
+.whitetext {
+  color: white;
+}
+.bold{
+  font-weight: bolder;
+  font-size: 30px;
+}
+.navbar{
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
