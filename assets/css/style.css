@@ -9615,10 +9615,6 @@ del {
   .section-padding40{
     padding: 0px;
   }
-  body{
-    padding-top: 20%;
-
-  }
 }
 
 @media (max-width: 575px) {
@@ -9669,10 +9665,7 @@ del {
     -webkit-box-sizing: border-box;
     -msbox-sizing: border-box;
 }
-body{
-  padding-top: 26%;
 
-}
 html, body{
   max-width: 100%;
   overflow-x: hidden;
@@ -10096,10 +10089,7 @@ px
 
 
 @media only screen and (min-width: 540px) and (max-width: 720px) {
-  body{
-    padding-top: 20%;
-
-  }
+  
   .p-zero{
     height: 730px;
     
@@ -10436,6 +10426,22 @@ font-weight:700;
   font-weight: bolder;
   font-size: 30px;
 }
-.shadownav{
-  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
-}
+.shadow{
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;}
+  .black{
+    color: #000;
+  }
+  body {
+    margin: 0;
+  }
+  
+  main,
+  header {
+    padding:0 ;
+  }
+  
+  header {
+    position: sticky;
+    top: 0; }
+    div.header{ position: sticky;
+      top: 0;}
