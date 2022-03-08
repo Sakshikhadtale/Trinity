@@ -10225,7 +10225,7 @@ a.nav-link {
 }
 
 .back {
-  height: 80rem;
+  height: 60rem;
   padding-top: 80px;
   max-width: 100%;
   background-size: cover;
@@ -10434,6 +10434,7 @@ font-weight:700;
 }
 .shadow{
   box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;}
+
   .black{
     color: #000;
   }
