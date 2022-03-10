@@ -10491,3 +10491,10 @@ background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
     .white-text{
       color: white; 
     }
+
+.new4 {
+      border: 1px solid red;
+    }
+    .black-text{
+      color: black;
+    }
