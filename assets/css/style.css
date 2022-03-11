@@ -10498,3 +10498,6 @@ background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
     .black-text{
       color: black;
     }
+.font2rem {
+  font-size: 2rem;
+}
