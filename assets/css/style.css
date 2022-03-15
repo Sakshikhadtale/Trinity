@@ -10501,3 +10501,14 @@ background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
 .font2rem {
   font-size: 2rem;
 }
+.white-text{
+  color: white;
+}
+.darktext {
+  color: #3a3a3a;
+}
+.f10{
+  font-size: 2rem;
+}
+.darkbluecolor{
+  color:#072366; }
