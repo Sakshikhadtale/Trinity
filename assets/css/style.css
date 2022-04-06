@@ -10560,3 +10560,10 @@ background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
     );
     box-shadow: 0 2px 5px 0 rgba(252, 104, 110, 0.75);
   }
+.login{
+ margin-right:0;
+ margin-left:0 ;
+}
+a.nav-link{
+ 
+}
