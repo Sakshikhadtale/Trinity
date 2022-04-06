@@ -10533,7 +10533,7 @@ background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
     -o-transition: all .4s ease-in-out;
     -webkit-transition: all .4s ease-in-out;
     transition: all .4s ease-in-out;
-    margin-top: 12px;
+    margin-top: 15px;
   }
   #navbarNav{
     align-items: center;
