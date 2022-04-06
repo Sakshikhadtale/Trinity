@@ -10389,10 +10389,13 @@ padding: 20px;  }
 }.nav-right {
   float: right;
   margin-left: 200px;
+  align-items: center;
+  
 }.headericons{
   color: #ff5200;
   padding-left: 15px;
 }
+.iconhead{}
 .font-20
 {
   font-family:"muli";
@@ -10512,3 +10515,48 @@ background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
 }
 .darkbluecolor{
   color:#072366; }
+
+  .bn632-hover {
+    width: 110px;
+    font-size: 15px;
+    font-weight: 800;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 37px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    margin-top: 12px;
+  }
+  #navbarNav{
+    align-items: center;
+  }
+  .bn632-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:focus {
+    outline: none;
+  }
+  
+  .bn632-hover.bn21 {
+    background-image: linear-gradient(
+      to right,
+      #fc6076,
+      #ff9a44,
+      #ef9d43,
+      #e75516
+    );
+    box-shadow: 0 2px 5px 0 rgba(252, 104, 110, 0.75);
+  }
