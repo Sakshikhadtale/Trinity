@@ -10386,9 +10386,9 @@ padding: 20px;  }
   padding-left: 10px;
   color: #000000;
   font-family: 'muli', sans-serif;
-}.nav-right {
+}.navright {
   float: right;
-  margin-left: 200px;
+  margin-left: auto;
   align-items: center;
   
 }.headericons{
