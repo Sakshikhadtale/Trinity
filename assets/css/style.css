@@ -66,7 +66,7 @@
 }
 .custom-font li{
   font-family:sans-serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 .width-30{
   width: 30%;
@@ -3649,14 +3649,7 @@ hr {
 }
 
 /* line 984, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
-.section-tittle h2 {
-  font-size: 25px;
-  display: block;
-  color: #072366;
-  font-weight: 800;
-  text-transform: normal;
-  line-height: 1.4;
-}
+
 .section-tittle h3 {
   font-size: 20px;
   display: block;
@@ -3666,14 +3659,8 @@ hr {
   line-height: 1.4;
 }
 
-.section-title h2 {
-  font-size: 25px;
-  display: block;
-  color: #072366;
-  font-weight: 800;
-  text-transform: normal;
-  line-height: 1.0;
-}
+
+
 
 .section-title h3 {
   font-size: 20px;
@@ -9719,10 +9706,7 @@ color: white;
 .fa-3em{
   font-size: 3em;
 }
-.custom-font li{
-  font-family:sans-serif;
-  font-size: 15px;
-}
+
 
 .btn-primary1 {
     background-color: #ff4935;
@@ -10281,8 +10265,8 @@ a.nav-link {
   background-color: #072366;
 }
 .custom-font {
-  line-height: 40px;
-  margin-left: 20px;
+  line-height: 35px;
+  margin-left: 10px;
 }
 
 .carousel-item  {
@@ -10601,4 +10585,7 @@ align-items: flex-end;
   font-weight: bolder;
   font-size: 2rem;
   color: #3a3d45;
+}
+.imageregis{
+  width: 400px;
 }
