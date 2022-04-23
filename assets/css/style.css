@@ -10589,3 +10589,9 @@ align-items: flex-end;
 .imageregis{
   width: 400px;
 }
+.biglist{
+  line-height: 27px;
+}
+.messagesmall{
+  height: 10px;
+}
